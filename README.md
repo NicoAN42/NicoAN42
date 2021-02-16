@@ -10,3 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoAN42&layout=compact)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

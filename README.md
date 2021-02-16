@@ -8,6 +8,6 @@
 - 📫 You can reach me on: [Facebook](https://www.facebook.com/profile.php?id=100010707918616), [Instagram](https://www.instagram.com/nicoardian_n/)
 - ⚡ Fun Fact : love Culinary
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoAN42&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoAN42&layout=compact&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
